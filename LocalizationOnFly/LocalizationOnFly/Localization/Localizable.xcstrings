@@ -1,0 +1,209 @@
+{
+  "sourceLanguage" : "en",
+  "strings" : {
+    "choose_language" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "ar" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "اختر اللغة"
+          }
+        },
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Choose Language"
+          }
+        },
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Elige lengua"
+          }
+        },
+        "ru" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Выберите язык"
+          }
+        }
+      }
+    },
+    "language_info_text" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "ar" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "مرحباً بالجميع!\nاللغة العربية من أقدم اللغات في العالم، وتُعتبر من اللغات السامية التي تعود جذورها إلى آلاف السنين. تحتوي العربية على نظام نحوي وصرفي مميز ومعقد، حيث يتضمن كلمات بأكثر من 12 مليون مفردة، مما يجعلها من أغنى اللغات من حيث المفردات. كما أن العربية هي لغة القرآن الكريم، مما يعطيها مكانة خاصة لدى أكثر من مليار مسلم حول العالم."
+          }
+        },
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Hello everyone! \nEnglish is one of the most widely spoken languages in the world. Known for its flexibility and rich vocabulary, it serves as a global lingua franca. Learning English can open doors to numerous opportunities in fields such as education, business, and technology. It allows people from diverse cultures to connect and communicate effectively."
+          }
+        },
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "¡Hola a todos!\nEl español es uno de los idiomas más hablados del mundo, con más de 460 millones de hablantes nativos. Es el idioma oficial de 20 países, incluidos España y la mayoría de los países de América Latina. El español tiene una rica tradición literaria, con escritores famosos como Cervantes y García Márquez. También es un idioma muy melódico y fácil de aprender para los hablantes de otras lenguas europeas, ya que comparte muchas raíces con el latín."
+          }
+        },
+        "ru" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Привет всем!\nРусский язык — один из самых богатых и сложных языков в мире. Он является официальным языком России и ещё 3 стран, а также одним из шести официальных языков ООН. Русский алфавит состоит из 33 букв, и в нём нет букв, похожих на латинские. Это язык с уникальной грамматикой, включающей падежи и глагольные формы. Русский язык также известен своей литературной традицией, благодаря таким авторам, как Пушкин, Толстой и Достоевский."
+          }
+        }
+      }
+    },
+    "language_info_view" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "ar" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "التالي"
+          }
+        },
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Next"
+          }
+        },
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Próximo"
+          }
+        },
+        "ru" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "следующий"
+          }
+        }
+      }
+    },
+    "language_name" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "ar" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "العربية"
+          }
+        },
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "English (US)"
+          }
+        },
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Español"
+          }
+        },
+        "ru" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Русский"
+          }
+        }
+      }
+    },
+    "settings_language" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "ar" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "لغة"
+          }
+        },
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Language"
+          }
+        },
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Idioma"
+          }
+        },
+        "ru" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Язык"
+          }
+        }
+      }
+    },
+    "settings_language_footer" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "ar" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "اختر لغة الواجهة."
+          }
+        },
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Choose interface language."
+          }
+        },
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Elija el idioma de la interfaz."
+          }
+        },
+        "ru" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Выберите язык интерфейса."
+          }
+        }
+      }
+    },
+    "this_text_localised" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "ar" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "بعد تغيير اللغة، اضغط على زر التالي لمعرفة شيء مثير عن اللغة."
+          }
+        },
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "After Changing the language click on Next button to know something interesting about the language."
+          }
+        },
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Después de cambiar el idioma, haz clic en el botón Siguiente para saber algo interesante sobre el idioma."
+          }
+        },
+        "ru" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "После смены языка нажмите кнопку «Далее», чтобы узнать что-то интересное о языке."
+          }
+        }
+      }
+    }
+  },
+  "version" : "1.0"
+}
